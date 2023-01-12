@@ -6,7 +6,7 @@ using static Infrastructure;
 // SortSelection(array);
 // Show(array);
 
-10.CreateArray(min: 10, max: 5)
+10.CreateArray(min: 2, max: 10)
   .Show()
   .SortSelection()
   .Show();
